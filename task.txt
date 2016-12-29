@@ -1,0 +1,67 @@
+var obj={}
+
+undefined
+
+
+obj.name='sanchit'
+
+"sanchit"
+
+
+obj
+
+Object {name: "sanchit"}
+
+
+obj.age=19
+
+19
+
+
+
+obj
+
+Object {name: "sanchit", age: 19}
+
+
+
+
+var num=5
+
+undefined
+
+
+num.age=10
+
+10
+
+
+num
+
+5
+
+
+num.age
+
+undefined
+
+
+var str='ignatius'
+
+undefined
+
+
+typeof str
+
+"string"
+
+
+str.age=34
+
+34
+
+
+str.age
+
+undefined
+
